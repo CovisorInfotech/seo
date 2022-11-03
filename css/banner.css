@@ -106,7 +106,7 @@ body {
 .banner_wrapper .banner-title {
     font-family: var(--secondary-font);
     font-weight: 800;
-    font-size: 60px;
+    /* font-size: 60px; */
     text-transform: capitalize;
     line-height: 1.15;
     margin-bottom: 25px;
